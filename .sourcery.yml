@@ -1,0 +1,6 @@
+sources:
+  - SourceryExperience
+templates:
+  - Templates
+output:
+  CodeGenerated
