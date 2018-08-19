@@ -20,5 +20,8 @@ Sourceryを使ってみました。
 - Run Scriptに実行スクリプトを記載しているので、ビルドのたびに自動生成されます
 - もし監視して自動生成したい場合は、``--watch``オプションをつけるとできます
 
+## Run Script
 
-
+```
+"${PODS_ROOT}/Sourcery/bin/sourcery"
+```
